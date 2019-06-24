@@ -1,3 +1,5 @@
+<?php require_once('../../private/initialize.php'); ?>
+
 <!doctype html>
 
 <html lang="en">
@@ -16,6 +18,7 @@
 			<li><a href="index.php">Menu</a></li>
 		</ul>
 	</navigation>
+	<div id="content"></div>
 	<footer>
 		&copy; <?php echo date('Y'); ?> Globe Bank
 	</footer>
