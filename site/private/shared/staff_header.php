@@ -18,6 +18,6 @@
 	<header>
 	<navigation>
 		<ul>
-			<li><a href=<?php echo 'index.php'; ?> style="color:black;">Menu</a></li>
+			<li><a href=<?php echo '../index.php'; ?> style="color:black;">Menu</a></li>
 		</ul>
 	</navigation>
